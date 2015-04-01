@@ -1,0 +1,9 @@
+site_name: GStreamer Documentation
+pages:
+
+  - ['index.md', 'Welcome to the GStreamer documentation'] 
+  - ['linux/ubuntu.md', 'Getting started on Linux'] 
+  - ['linux/fedora.md', 'Getting started on Linux'] 
+  - ['windows.md', 'Getting started on Windows'] 
+
+theme: slate
